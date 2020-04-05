@@ -37,7 +37,7 @@
   </project>
 
   <!-- VALIDUS -->
-  <project path="bionic" name="bionic" remote="val" />
+  <project path="bionic" name="bionic" remote="trm" revision="cross" />
   <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="val" />
   <project path="frameworks/base" name="frameworks_base" remote="val" />
   <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="val" />
