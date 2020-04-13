@@ -39,7 +39,7 @@
   <!-- VALIDUS -->
   <project path="bionic" name="bionic" remote="trm" revision="cross" />
   <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="val" />
-  <project path="frameworks/base" name="frameworks_base" remote="val" />
+  <project path="frameworks/base" name="frameworks_base" remote="trm" />
   <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="val" />
   <project path="hardware/gzosp/interfaces" name="hardware_gzosp_interfaces" remote="val" />
   <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="val" />
@@ -47,12 +47,12 @@
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" groups="pdk-fs" remote="val" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" groups="pdk-fs" remote="val" />
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="val" /> 
-  <project path="packages/apps/FunHouse" name="packages_apps_FunHouse" groups="pdk-fs" remote="val" />
+  <project path="packages/apps/FunHouse" name="packages_apps_FunHouse" groups="pdk-fs" remote="trm" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" groups="pdk-fs" remote="val" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" groups="pdk-fs" remote="val" />
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="val" />
   <project path="packages/apps/Phonograph" name="packages_apps_Phonograph" remote="val" /> 
-  <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="val" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="trm" />
   <project name="packages_services_OmniJaws" path="packages/services/OmniJaws" remote="val" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="val" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" groups="pdk-fs" remote="val" />
